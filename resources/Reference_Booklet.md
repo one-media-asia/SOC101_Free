@@ -58,7 +58,8 @@
 `sudo apt install git`
 ### **Clone the course repository**
 
-`git clone [https://github.com/MalwareCube/SOC101.git](https://github.com/MalwareCube/SOC101.git)`
+`git clone https://github.com/MalwareCube/SOC101_Free.git`
+
 ### **Make the install script executable**
 
 `chmod +x ./install.sh`
